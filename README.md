@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohamed Galal
+# 👋 Hello, I'm Mohamed Galal
 ### Data Analyst | Business Information Systems Student
 
 I am a passionate data analyst dedicated to turning complex data into actionable insights. My journey focuses on bridging the gap between business strategy and data, leveraging analytics to solve real-world problems.
